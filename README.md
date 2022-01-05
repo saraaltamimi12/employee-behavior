@@ -2,15 +2,15 @@
 
 
 
-OVERVIEW:
+## OVERVIEW:
 
 Intended for HR analytics where companies can predict which employee is likely to leave this company based on several characteristics.
 
-MOTIVATIONS:
+## MOTIVATIONS:
 
 Anticipate employee behavior
 
-DESCRIBE DATA:
+## DESCRIBE DATA:
 
 Collecting data from "https://www.kaggle.com"
 
@@ -40,7 +40,7 @@ left :I would expect as a target
 
 Features :All columns except (left column)
 
-TOOLS:
+## TOOLS:
 
 1.Pandas
 
